@@ -1,0 +1,5 @@
+# Environment var files
+.env
+
+# Execution files
+bin
